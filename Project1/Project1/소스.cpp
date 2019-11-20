@@ -15,5 +15,5 @@ int main()
 	*p = 200;
 	sum += *p;
 
-	printf("sumÀÇ °ª = %d\n", sum);
+	printf("sumì˜ ê°’ = %d\n", sum);
 }
